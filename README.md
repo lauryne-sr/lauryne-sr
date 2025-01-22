@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Laury 😁
+## Desenvolvedor FrontEnd Junior
 
  <div>
    <a href="https://github.com/lauryne-sr">
